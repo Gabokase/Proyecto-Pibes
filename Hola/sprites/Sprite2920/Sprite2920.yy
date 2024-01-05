@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Sprite2920",
-  "bbox_bottom": 126,
+  "bbox_bottom": 199,
   "bbox_left": 0,
-  "bbox_right": 126,
+  "bbox_right": 199,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fdd6a846-0deb-4050-af69-d43a7276f7c2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0a42c048-4e3b-45d3-9c2e-21f623a876d7",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 127,
+  "height": 200,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cb1816aa-3bed-4ea0-a233-47e41d23f75c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d93e02ae-2de8-4c1d-bfc2-8a6ce498136e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fdd6a846-0deb-4050-af69-d43a7276f7c2","path":"sprites/Sprite2920/Sprite2920.yy",},},},"Disabled":false,"id":"83498a1e-be25-47ab-81a1-8c4daed24dc3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0a42c048-4e3b-45d3-9c2e-21f623a876d7","path":"sprites/Sprite2920/Sprite2920.yy",},},},"Disabled":false,"id":"9d045027-11fe-4e8c-ab82-352e2ecd5add","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 127,
+  "width": 200,
 }
